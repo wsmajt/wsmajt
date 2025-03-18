@@ -51,6 +51,7 @@
 
 ## 🔨 **Working on**:
 [![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-vue-skeleton&theme=tokyonight)](https://github.com/wsmajt/laravel-vue-skeleton)
+[![Card 2](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-todolist&theme=tokyonight)](https://github.com/wsmajt/laravel-vue-skeleton)
 
 \
 [<img alt="Contact Me!" src="https://img.shields.io/badge/inquires%3F-contact_me-8850D9?style=flat">](#)  
