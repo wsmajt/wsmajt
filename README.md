@@ -49,7 +49,8 @@
 \
 ![Top Langs](https://github-readme-stats-wsmajts-projects.vercel.app/api/top-langs/?username=wsmajt&layout=compact&theme=tokyonight&langs_count=10&card_width=991&hide_border=true&text_color=50FA7B&icon_color=50FA7B&title_color=FF79C6)
 
-## 🔨 **Working on:** Learning Laravel 12
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=26&pause=1000&color=BD93F9&random=true&width=300&height=42&lines=%F0%9F%94%A8+Recently+working+on%3A)](#)
+## **✨ Learning Laravel 12 ✨**  
 [![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-vue-skeleton&theme=tokyonight&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6)](https://github.com/wsmajt/laravel-vue-skeleton)
 [![Card 2](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-todolist&theme=tokyonight&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6)](https://github.com/wsmajt/laravel-todolist)
 
