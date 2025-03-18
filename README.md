@@ -43,7 +43,7 @@
   <img height=200 align="center" src="https://github-readme-stats-wsmajts-projects.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Github%20Stats&card_width=384" alt="mystats" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-streak-stats-wsmajts-projects.vercel.app/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=400&border_radius=4&card_height=199.5" alt="mystreak"/>
+  <img align="center" src="https://github-readme-streak-stats-wsmajts-projects.vercel.app/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=398&border_radius=4&card_height=199.5" alt="mystreak"/>
 </span>
 
 \
