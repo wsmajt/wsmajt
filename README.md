@@ -25,17 +25,17 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Github%20Stats&card_width=384" alt="mystats" />
+  <img height=200 align="center" src="https://github-readme-stats-wsmajts-projects.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Github%20Stats&card_width=384" alt="mystats" />
 </span>
 <span>
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=384" alt="mystreak"/>
+  <img height=200 align="center" src="https://github-readme-streak-stats-wsmajts-projects.vercel.app/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=384" alt="mystreak"/>
 </span>
 
 \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmajt&layout=compact&theme=tokyonight&card_width=991&langs_count=10)
+![Top Langs](https://github-readme-stats-wsmajts-projects.vercel.app/api/top-langs/?username=wsmajt&layout=compact&theme=tokyonight&card_width=991&langs_count=10)
 
 ## 🔨 **Working on**:
-[![Card 1](https://github-readme-stats.vercel.app/api/pin/?username=wsmajt&repo=laravel-vue-skeleton&theme=tokyonight)](https://github.com/wsmajt/laravel-vue-skeleton)
+[![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-vue-skeleton&theme=tokyonight)](https://github.com/wsmajt/laravel-vue-skeleton)
 
 \
 [<img alt="Contact Me!" src="https://img.shields.io/badge/inquires%3F-contact_me-8850D9?style=flat">](#)  
