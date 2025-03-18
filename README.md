@@ -25,10 +25,10 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Github%20Stats&card_width=385" alt="mystats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Github%20Stats&card_width=384" alt="mystats" />
 </span>
 <span>
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=385" alt="mystreak"/>
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=384" alt="mystreak"/>
 </span>
 
 \
