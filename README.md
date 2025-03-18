@@ -40,18 +40,18 @@
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 <span>
-  <img height=200 align="center" src="https://github-readme-stats-wsmajts-projects.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Github%20Stats&card_width=384" alt="mystats" />
+  <img height=200 align="center" src="https://github-readme-stats-wsmajts-projects.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Statistics&card_width=384&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6" alt="mystats" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-streak-stats-wsmajts-projects.vercel.app/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=393&border_radius=4&card_height=199.8" alt="mystreak"/>
+  <img align="center" src="https://github-readme-streak-stats-wsmajts-projects.vercel.app/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=393&border_radius=4&card_height=199.8&hide_border=true&stroke=50FA7B&ring=FF79C6&currStreakNum=BD93F9&sideNums=BD93F9&currStreakLabel=BD93F9&sideLabels=FF79C6&dates=50FA7B" alt="mystreak"/>
 </span>
 
 \
-![Top Langs](https://github-readme-stats-wsmajts-projects.vercel.app/api/top-langs/?username=wsmajt&layout=compact&theme=tokyonight&card_width=991&langs_count=10)
+![Top Langs](https://github-readme-stats-wsmajts-projects.vercel.app/api/top-langs/?username=wsmajt&layout=compact&theme=tokyonight&langs_count=10&card_width=991&hide_border=true&text_color=50FA7B&icon_color=50FA7B&title_color=FF79C6)
 
 ## 🔨 **Working on:** Learning Laravel 12
-[![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-vue-skeleton&theme=tokyonight)](https://github.com/wsmajt/laravel-vue-skeleton)
-[![Card 2](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-todolist&theme=tokyonight)](https://github.com/wsmajt/laravel-todolist)
+[![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-vue-skeleton&theme=tokyonight&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6)](https://github.com/wsmajt/laravel-vue-skeleton)
+[![Card 2](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-todolist&theme=tokyonight&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6)](https://github.com/wsmajt/laravel-todolist)
 
 \
 [<img alt="Contact Me!" src="https://img.shields.io/badge/inquires%3F-contact_me-8850D9?style=flat">](#)  
