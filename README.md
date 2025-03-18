@@ -28,7 +28,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Github%20Stats&card_width=390" alt="mystats" />
 </span>
 <span>
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=390" alt="mystreak"/>
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsmajt&theme=tokyonight&fire=EB5454&card_width=388" alt="mystreak"/>
 </span>
 
 \
