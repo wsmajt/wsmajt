@@ -49,7 +49,7 @@
 \
 ![Top Langs](https://github-readme-stats-wsmajts-projects.vercel.app/api/top-langs/?username=wsmajt&layout=compact&theme=tokyonight&card_width=991&langs_count=10)
 
-## 🔨 **Working on**:
+## 🔨 **Working on:** Learning Laravel 12
 [![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-vue-skeleton&theme=tokyonight)](https://github.com/wsmajt/laravel-vue-skeleton)
 [![Card 2](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-todolist&theme=tokyonight)](https://github.com/wsmajt/laravel-todolist)
 
