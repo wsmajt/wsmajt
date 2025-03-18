@@ -55,7 +55,7 @@
 
 \
 [<img alt="Contact Me!" src="https://img.shields.io/badge/inquires%3F-contact_me-8850D9?style=flat">](#)  
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">](mailto:kacpermusz@gmail.com) 
-[<img alt="Gmail" src="https://img.shields.io/badge/wsmajt-%235865F2.svg?&logo=discord&logoColor=white">](#) 
+[<img alt="Mail" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">](mailto:contact@code-rage.net) 
+[<img alt="Discord" src="https://img.shields.io/badge/wsmajt-%235865F2.svg?&logo=discord&logoColor=white">](#) 
 [<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">](https://www.linkedin.com/in/kacperm-wsmajt)
 [<img alt="Code-Rage" src="https://img.shields.io/badge/%7BCode--Rage%7D-Software_House-AE6FFF?labelColor=8A4DFF">](https://code-rage.net/)
