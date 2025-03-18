@@ -1,4 +1,4 @@
-# 😎 **Hi!**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=26&pause=1000&color=BD93F9&random=true&width=300&height=42&lines=Welcome+to+my+profile+!)](#)  
 **I'm Kacper**, Fullstack Developer from ![flaga](https://github.com/user-attachments/assets/750a85a1-06d6-402a-b716-eea912380e0b) **Bydgoszcz, Poland** with a strong focus on delivering high-quality web applications! 🖥
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
