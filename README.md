@@ -51,7 +51,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=26&duration=3500&pause=1500&color=BD93F9&width=300&height=42&lines=%F0%9F%94%A8+Recently+working+on%3A)](#)
 ## **✨ Learning Laravel 12 ✨**  
-[![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-vue-skeleton&theme=tokyonight&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6&t1)](https://github.com/wsmajt/laravel-vue-skeleton)
+[![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-react-skeleton&theme=tokyonight&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6&t1)](https://github.com/wsmajt/laravel-react-skeleton)
 [![Card 2](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-todolist&theme=tokyonight&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6)](https://github.com/wsmajt/laravel-todolist)
 
 \
