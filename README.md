@@ -41,19 +41,18 @@
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
 
 <span>
-  <img height=200 align="center" src="https://github-readme-stats-wsmajts-projects.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Statistics&card_width=384&hide_border=true&text_color=BD93F9&title_color=FF79C6&icon_color=50FA7B&t10" alt="mystats" />
+  <img height=200 align="center" src="https://github-readme-stats-wsmajts-projects.vercel.app/api?username=wsmajt&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Statistics&card_width=384&hide_border=true&text_color=BD93F9&title_color=FF79C6&icon_color=50FA7B&t11" alt="mystats" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-streak-stats-wsmajts-projects.vercel.app/?user=wsmajt&theme=tokyonight&fire=FF5555&card_width=393&border_radius=4&card_height=199.8&hide_border=true&stroke=50FA7B&ring=FF79C6&currStreakNum=BD93F9&sideNums=BD93F9&currStreakLabel=BD93F9&sideLabels=FF79C6&dates=50FA7B&t9" alt="mystreak"/>
+  <img align="center" src="https://github-readme-streak-stats-wsmajts-projects.vercel.app/?user=wsmajt&theme=tokyonight&fire=FF5555&card_width=393&border_radius=4&card_height=199.8&hide_border=true&stroke=50FA7B&ring=FF79C6&currStreakNum=BD93F9&sideNums=BD93F9&currStreakLabel=BD93F9&sideLabels=FF79C6&dates=50FA7B&t10" alt="mystreak"/>
 </span>
 
 \
 ![Top Langs](https://github-readme-stats-wsmajts-projects.vercel.app/api/top-langs/?username=wsmajt&layout=compact&theme=tokyonight&langs_count=10&card_width=991&hide_border=true&text_color=50FA7B&title_color=FF79C6&icon_color=50FA7B&t9)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=26&duration=3500&pause=1500&color=BD93F9&width=300&height=42&lines=%F0%9F%94%A8+Recently+working+on%3A)](#)
-## **✨ Learning Laravel 12 ✨**  
-[![Card 1](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-react-skeleton&theme=tokyonight&hide_border=true&text_color=BD93F9&icon_color=50FA7B&title_color=FF79C6&t9)](https://github.com/wsmajt/laravel-react-skeleton)
-[![Card 2](https://github-readme-stats-wsmajts-projects.vercel.app/api/pin/?username=wsmajt&repo=laravel-todolist&theme=tokyonight&hide_border=true&icon_color=50FA7B&text_color=BD93F9&title_color=FF79C6&6)](https://github.com/wsmajt/laravel-todolist)
+## **✨ Working on SaaS ✨**  
+Laravel 12 API + Svelte SSR (Closed-Source Project)
 
 \
 [<img alt="Contact Me!" src="https://img.shields.io/badge/inquires%3F-contact_me-8850D9?style=flat">](#)  
