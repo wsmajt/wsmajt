@@ -50,10 +50,6 @@
 \
 ![Top Langs](https://github-readme-stats-wsmajts-projects.vercel.app/api/top-langs/?username=wsmajt&layout=compact&theme=tokyonight&langs_count=10&card_width=991&hide_border=true&text_color=50FA7B&title_color=FF79C6&icon_color=50FA7B&t9)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=26&duration=3500&pause=1500&color=BD93F9&width=300&height=42&lines=%F0%9F%94%A8+Recently+working+on%3A)](#)
-## **✨ Working on SaaS ✨**  
-Laravel 12 API + Svelte SSR (Closed-Source Project)
-
 \
 [<img alt="Contact Me!" src="https://img.shields.io/badge/inquires%3F-contact_me-8850D9?style=flat">](#)  
 [<img alt="Mail" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">](mailto:contact@code-rage.net) 
